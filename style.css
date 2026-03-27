@@ -1,0 +1,16 @@
+:root {
+  --color1: #ffffff; /* Branco */
+  --color2: #a1ac88; /* Verde Musgo */
+  --color3: #757575; /* Cinza */
+  --color4: #464d70; /* Azul Acinzentado */
+  --color5: #000000; /* Preto */
+}
+
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color5);
+  background-image: linear-gradient(var(--color1) 1px, transparent 1px), linear-gradient(90deg, var(--color1) 1px, transparent 1px  );
+  background-size: 30px 30px; /* Define o espaço entre as listras (ajuste os 20px como preferir) */
+}
