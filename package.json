@@ -1,0 +1,23 @@
+{
+  "name": "personal-workspace-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard pessoal moderno e responsivo para gerenciar projetos e ferramentas",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python3 -m http.server 8000 || python -m SimpleHTTPServer 8000"
+  },
+  "keywords": [
+    "dashboard",
+    "personal",
+    "projectmanagement",
+    "responsive",
+    "html5",
+    "css3"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/personal-workspace.git"
+  }
+}

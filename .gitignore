@@ -1,0 +1,26 @@
+# IDE e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node (se implementar com npm no futuro)
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Build e Dist
+/dist/
+/build/
+*.map
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Arquivos de sistema
+Thumbs.db
+.AppleDouble
+.LSOverride
